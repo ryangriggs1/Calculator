@@ -1,0 +1,11 @@
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ryang\Desktop\Windows Program\Assignment4\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
